@@ -3,7 +3,7 @@ title: "Fair Hirerarchical Clustering"
 collection: publications
 category: conferences
 permalink: /publication/fhc1
-excerpt: 'Initiates the study of group fairness in hierarchical clustering.
+excerpt: 'Initiates the study of group fairness in hierarchical clustering.'
 date: 2020-12-01
 venue: 'NeurIPS'
 paperurl: 'https://arxiv.org/abs/2006.10221'
