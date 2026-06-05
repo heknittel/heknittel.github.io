@@ -8,7 +8,7 @@ date: 2019-09-01
 venue: 'ESA'
 paperurl: 'https://heknittel.github.io/files/behnezhad_et_al_ESA_2019.pdf'
 bibtexurl: 'https://dblp.org/rec/conf/esa/BehnezhadDHKS19.html?view=bibtex'
-citation: 'Soheil Behnezhad, Mahsa Derakhshan, MohammadTaghi Hajiaghayi, Marina Knittel, and Hamed Saleh. (2023). &quot;Streaming and Massively Parallel Algorithms for Edge Coloring.&quot; <i>The 27th Annual European Symposium on Algorithms</i>.'
+citation: 'Soheil Behnezhad, Mahsa Derakhshan, MohammadTaghi Hajiaghayi, Marina Knittel, and Hamed Saleh. (2019). &quot;Streaming and Massively Parallel Algorithms for Edge Coloring.&quot; <i>The 27th Annual European Symposium on Algorithms</i>.'
 ---
 A valid edge-coloring of a graph is an assignment of “colors” to its edges such that no two incident edges receive the same color. The goal is to find a proper coloring that uses few colors. (Note that the maximum degree, $\Delta$, is a trivial lower bound.) In this paper, we revisit this fundamental problem in two models of computation specific to massive graphs, the Massively Parallel Computations (MPC) model and the Graph Streaming model:
 

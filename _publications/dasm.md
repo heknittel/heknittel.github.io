@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/dasm
 excerpt: 'Modeling applicant-employer matching using affiliated preferences.'
-date: 2022-07-01
+date: 2022-07-20
 venue: 'IJCAI'
 paperurl: 'https://arxiv.org/abs/2202.11095'
 bibtexurl: 'https://dblp.org/rec/conf/ijcai/KnittelDD22.html?view=bibtex'
