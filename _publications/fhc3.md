@@ -3,7 +3,7 @@ title: "Fair, Polylog-Approximate Low-Cost Hierarchical Clustering"
 collection: publications
 category: conferences
 permalink: /publication/fhc3
-excerpt: 'Marina Knittel, Max Springer, John P. Dickerson, and MohammadTaghi Hajiaghayi. (2023). &quot;Fair, Polylog-Approximate Low-Cost Hierarchical Clustering.&quot; <i>The Conference on Neural Information Processing</i>.'
+excerpt: 'Marina Knittel, [Max Springer](https://mss423.github.io/), [John P. Dickerson](http://jpdickerson.com/), and [MohammadTaghi Hajiaghayi](https://www.cs.umd.edu/~hajiagha/)'
 date: 2023-12-01
 venue: 'NeurIPS'
 paperurl: 'https://arxiv.org/abs/2311.12501'
