@@ -8,7 +8,7 @@ date: 2023-07-01
 venue: 'SPAA'
 paperurl: 'https://heknittel.github.io/files/Ahanchi_et_al_SPAA_2023.pdf'
 bibtexurl: 'https://dblp.org/rec/conf/spaa/AhanchiAHKZ23.html?view=bibtex'
-citation: 'AmirMohsen Ahanchi, Alexandr Andoni, MohammadTaghi Hajiaghayi, Marina Knittel, and Peilin Zhong. (2023). &quot;.Massively Parallel Tree Embeddings for High Dimensional Spaces&quot; <i>Symposium on Parallelism and Architectures</i>.'
+citation: 'AmirMohsen Ahanchi, Alexandr Andoni, MohammadTaghi Hajiaghayi, Marina Knittel, and Peilin Zhong. (2023). &quot;Massively Parallel Tree Embeddings for High Dimensional Spaces.&quot; <i>Symposium on Parallelism and Architectures</i>.'
 ---
 Efficient computation on massive high-dimensional data greatly benefits from efficient embedding techniques into simpler metrics. Perhaps the most celebrated technique is the dimension reduction à-la Johnson and Lindenstrauss [46]. Another important method embeds the data into a tree metric space, first efficiently achieve by Bartal [15]. Both of these algorithmic tools are among the most general theorems with numerous applications.
 
