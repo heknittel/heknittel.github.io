@@ -2,7 +2,7 @@
 title: "Fair, Polylog-Approximate Low-Cost Hierarchical Clustering"
 collection: publications
 category: conferences
-permalink: /publication/fhc3.md
+permalink: /publication/fhc3
 excerpt: 'New approximation algorithms for fair hierarchical clustering.'
 date: 2023-12-01
 venue: 'NeurIPS'
