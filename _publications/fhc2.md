@@ -3,7 +3,7 @@ title: "Generalized Reductions: Making any Hierarchical Clustering Fair and Bala
 collection: publications
 category: conferences
 permalink: /publication/fhc2
-excerpt: 'Near-polylogarithmic fair hierarchical clustering approximations for Dasgupta's cost function.'
+excerpt: "Near-polylogarithmic fair hierarchical clustering approximations for Dasgupta's cost function."
 date: 2023-07-23
 venue: 'ICML'
 paperurl: 'https://arxiv.org/abs/2205.14198'
