@@ -12,4 +12,4 @@ author_profile: true
 * Mechanism Design (CSCI 375): Spring '25
 
 ## University of Maryland
-* **[Mechanism Design (CMSC 498T)](https://mech-design.github.io/)**: Spring 22
+* **[Mechanism Design (CMSC 498T)](https://mech-design.github.io/)**: Spring '22
